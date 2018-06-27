@@ -83,6 +83,5 @@ Java 知识点，继续完善中。
 
 ### 联系作者
 
-> crossoverJie#gmail.com
+>gentoo111#163.com
 
-![](https://ws4.sinaimg.cn/large/006tKfTcly1fochm4as0sj30by0bydgh.jpg)
